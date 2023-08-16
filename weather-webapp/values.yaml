@@ -9,4 +9,4 @@ configmap:
 
 image:
   name: shujohns/weather
-  tag: latest
+  tag: amd
